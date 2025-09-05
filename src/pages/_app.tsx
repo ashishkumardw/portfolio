@@ -20,7 +20,7 @@ export default function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <link rel="icon" type="image/x-icon" href="/logo.png" sizes="any" />
+        <link rel="icon" type="image/x-icon" href="/code.svg" sizes="any" />
         <style
           dangerouslySetInnerHTML={{
             __html:
